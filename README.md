@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, Python, etc...**
 
-- 💬 Ask me about **Javascript, MEARN**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **Discord: Jaesung#2697**
 
