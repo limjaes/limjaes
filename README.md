@@ -35,6 +35,18 @@
 </p>
 
 <details>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-sung-lim&show_icons=true&locale=en&layout=compact" alt="jay-sung-lim" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-sung-lim&show_icons=true&locale=en" alt="jay-sung-lim" />
+<p align="center">
+  <a href="https://github.com/Jay-Sung-Lim">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay-Sung-Lim&theme=transparent" />
+  </a>
+  <a href="https://github.com/Jay-Sung-Lim">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Sung-Lim&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Jay-Sung-Lim">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jay-Sung-Lim&theme=transparent" />
+  </a>
+  <a href="https://github.com/Jay-Sung-Lim">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Sung-Lim&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
 </details>
