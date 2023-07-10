@@ -47,13 +47,19 @@
 <details>
 <p align="center">
   <a href="https://github.com/Jay-Sung-Lim">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay-Sung-Lim&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay-Sung-Lim&theme=github" />
   </a>
   <a href="https://github.com/Jay-Sung-Lim">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Sung-Lim&hide_border=true&card_width=338&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jay-Sung-Lim&theme=github" />
   </a>
   <a href="https://github.com/Jay-Sung-Lim">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jay-Sung-Lim&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jay-Sung-Lim&theme=github" />
+  </a>
+  <a href="https://github.com/Jay-Sung-Lim">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jay-Sung-Lim&theme=github" />
+  </a>
+  <a href="https://github.com/Jay-Sung-Lim">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jay-Sung-Lim&theme=github&utcOffset=8" />
   </a>
 </p>
 </details>
