@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **Discord: Jaesung#2697**
+- 📫 How to reach me **Discord Username: jaesung**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
