@@ -40,19 +40,19 @@
 <details>
 <p align="center">
   <a href="https://github.com/Jay-Sung-Lim">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay-Sung-Lim&theme=github" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=limjaes&theme=github" />
   </a>
   <a href="https://github.com/Jay-Sung-Lim">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jay-Sung-Lim&theme=github" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=limjaes&theme=github" />
   </a>
   <a href="https://github.com/Jay-Sung-Lim">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jay-Sung-Lim&theme=github" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=limjaes&theme=github" />
   </a>
   <a href="https://github.com/Jay-Sung-Lim">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jay-Sung-Lim&theme=github" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=limjaes&theme=github" />
   </a>
   <a href="https://github.com/Jay-Sung-Lim">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jay-Sung-Lim&theme=github&utcOffset=8" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=limjaes&theme=github&utcOffset=8" />
   </a>
 </p>
 </details>
