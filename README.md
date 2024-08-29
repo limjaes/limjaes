@@ -37,7 +37,7 @@
 ![adobephotoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
 ![adobeillustrator](https://img.shields.io/badge/-adobe%20illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
 
-## ML / AI / Data
+## ML / AI / Data Analytics
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%233F4F75.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
